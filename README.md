@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Somewhere
+
+Jave程序猿，前后端均有涉猎，关注spring全家桶、vue/react
 
 <!--
 **somowhere/somowhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
