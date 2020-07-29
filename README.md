@@ -1,20 +1,28 @@
 ### Hi there 👋 I'm Somewhere
 
-Jave程序猿，前后端均有涉猎，关注spring全家桶、vue/react
+Jave程序猿，前后端均有涉猎，关注微服务
 
-<!--
-**somowhere/somowhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
 
-Here are some ideas to get you started:
+<p>  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
+  <br />
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=somowhere&show_icons=true&theme=radical)
+
+### Github State
+
+[![Somewhere's github stats](https://github-readme-stats.vercel.app/api?username=somowhere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
