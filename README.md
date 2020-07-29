@@ -9,7 +9,7 @@ Jave程序猿，前后端均有涉猎，关注微服务
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+  <code><img width="10%" height="10%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
   <br />
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg"></code>
